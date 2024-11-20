@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Navigation from "./Navigation";
-
+hello;
 const Header = () => {
   return (
     <header className=" top-0 w-full border-b-2 bg-drip-white border-drip-gray-light z-50 relative ">
